@@ -1,0 +1,60 @@
+<?xml version="1.0" ?>
+<!DOCTYPE SELECT_FROM_albums_a_LIMIT_10 [
+  <!ELEMENT SELECT_FROM_albums_a_LIMIT_10 (DATA_RECORD*)>
+  <!ELEMENT DATA_RECORD (AlbumId?,Title?,ArtistId?)+>
+  <!ELEMENT AlbumId (#PCDATA)>
+  <!ELEMENT Title (#PCDATA)>
+  <!ELEMENT ArtistId (#PCDATA)>
+]>
+<SELECT_FROM_albums_a_LIMIT_10>
+  <DATA_RECORD>
+    <AlbumId>1</AlbumId>
+    <Title>For Those About To Rock We Salute You</Title>
+    <ArtistId>1</ArtistId>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <AlbumId>2</AlbumId>
+    <Title>Balls to the Wall</Title>
+    <ArtistId>2</ArtistId>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <AlbumId>3</AlbumId>
+    <Title>Restless and Wild</Title>
+    <ArtistId>2</ArtistId>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <AlbumId>4</AlbumId>
+    <Title>Let There Be Rock</Title>
+    <ArtistId>1</ArtistId>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <AlbumId>5</AlbumId>
+    <Title>Big Ones</Title>
+    <ArtistId>3</ArtistId>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <AlbumId>6</AlbumId>
+    <Title>Jagged Little Pill</Title>
+    <ArtistId>4</ArtistId>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <AlbumId>7</AlbumId>
+    <Title>Facelift</Title>
+    <ArtistId>5</ArtistId>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <AlbumId>8</AlbumId>
+    <Title>Warner 25 Anos</Title>
+    <ArtistId>6</ArtistId>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <AlbumId>9</AlbumId>
+    <Title>Plays Metallica By Four Cellos</Title>
+    <ArtistId>7</ArtistId>
+  </DATA_RECORD>
+  <DATA_RECORD>
+    <AlbumId>10</AlbumId>
+    <Title>Audioslave</Title>
+    <ArtistId>8</ArtistId>
+  </DATA_RECORD>
+</SELECT_FROM_albums_a_LIMIT_10>

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <!-- JavaScript Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/js/bootstrap.bundle.min.js" integrity="sha384-b5kHyXgcpbZJO/tY9Ul7kGkf1S0CWuKcCD38l8YkeH8z8QjE0GmW1gYU5S9FOnJ0" crossorigin="anonymous"></script>
+    <!-- CSS only -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+  </head>
+  <body>
+    <div class="navbar navbar-dark bg-dark shadow-sm">
+      <div class="container">
+        <a href="#" class="navbar-brand d-flex align-items-center">
+          <strong>Mini Flask</strong>
+        </a>
+      </div>
+    </div>
+    <section class="py-5 text-center container">
+      <div class="row py-lg-5">
+        <div class="col-lg-6 col-md-8 mx-auto">
+          <h1 class="fw-light">Mini Flask Application</h1>
+          <br>
+          <p class="lead text-muted">
+          Mini Flask 어플리케이션 메인 페이지에 온 것을 환영합니다
+          <br>
+          원하시는대로 페이지를 구현해 보세요!
+          </p>
+        </div>
+      </div>
+    </section>
+    {% if user_list %}
+    <section class="py-5 text-center container">
+      <!-- 
+        여기에 HTML 코드를 작성해 주세요. 
+
+        주어진 user_list 에 있는 유저를 각각 표시합니다.
+
+        Hint:
+          - 어떻게 해야 주어진 user_list 변수를 사용할 수 있을까요?
+          - 주어진 데이터를 테이블로 표기하는 방법은 뭔가요?
+
+        예시)
+
+        예를 들어 데이터베이스에 유저 데이터가 하나 있습니다. 
+          - 유저네임이 'patrick', 아이디 값이 '1'
+
+        그렇다면 이 페이지를 접속하면 'patrick' 과 '1' 이 보여야 합니다.
+      -->
+    </section>
+    {% endif %}
+  </body>
+</html>

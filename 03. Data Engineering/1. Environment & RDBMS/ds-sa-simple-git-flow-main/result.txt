@@ -1,0 +1,7 @@
+# conda environments:
+#
+base                     C:\Anaconda3
+ai08                     C:\Anaconda3\envs\ai08
+env                      C:\Anaconda3\envs\env
+s1n1                  *  C:\Anaconda3\envs\s1n1
+

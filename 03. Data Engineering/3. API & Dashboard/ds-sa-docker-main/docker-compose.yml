@@ -1,0 +1,17 @@
+# docker-compose 버전
+version: '3.7'
+
+# 사용할 container
+services: # services 문법이기 때문에 변경하면 안됩니다
+  express: # 변경 가능합니다
+    # 웹 서버
+    image: jmuppala/node-server
+    container_name: jmuppala_node-server
+    ports:
+      - "3000:3000"
+
+    command : ["./wait-for-it.sh", "mongodb:27017","--","npm","start"] # 변경하지 말아주세요!
+
+  mongodb:
+    image: jmuppala/mongo-server
+    container_name: mongo_server
