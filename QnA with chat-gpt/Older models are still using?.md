@@ -1,4 +1,4 @@
-### Q1. There are many old models that have already been released. Are they still used a lot?
+### Q. There are many old models that have already been released. Are they still used a lot?
 
 <br>
 
