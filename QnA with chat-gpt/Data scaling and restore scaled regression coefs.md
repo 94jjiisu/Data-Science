@@ -1,5 +1,6 @@
 
-### Q. Why is data scaling important to machine learning regression models?
+### Q1. Why is data scaling important to machine learning regression models?
+
 
 A. Data scaling is important in machine learning regression models for several reasons:
 
@@ -13,7 +14,8 @@ Overall, data scaling is an important preprocessing step in machine learning reg
 
 
 
-### Q. Then, how can I interpret scaled regression coefficients?
+### Q2. Then, how can I interpret scaled regression coefficients?
+
 
 A. Interpreting the coefficients of a regression model that uses scaled input features requires a slightly different approach than interpreting coefficients in a model without scaling. Here are some key points to consider when interpreting scaled regression coefficients:
 
@@ -30,6 +32,7 @@ In summary, interpreting scaled regression coefficients requires taking into acc
 
 
 ### Q. There is no method to restore scaled regression coefficients?
+
 
 A. It is generally not recommended to "restore" scaled regression coefficients to their original scale because the scaling transformation changes the units and magnitudes of the input features. However, there are some cases where you may need to report or interpret the coefficients in the original scale, such as when communicating results to non-technical stakeholders or comparing coefficients across different models.
 
