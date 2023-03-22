@@ -1,7 +1,7 @@
 
 ### Q1. Why is data scaling important to machine learning regression models?
-
-
+   
+   
 A. Data scaling is important in machine learning regression models for several reasons:
 
 Faster convergence: When the input features have different scales, the cost function may have elongated bowl-shaped contours, which make it difficult for the optimization algorithm to converge quickly. By scaling the input features, we can make the cost function more symmetric and thus easier to optimize.
@@ -13,10 +13,10 @@ Regularization: Scaling can also help to prevent overfitting of the model. Regul
 Overall, data scaling is an important preprocessing step in machine learning regression models to ensure that the model is able to learn from all the input features effectively and produce accurate predictions.
 
 
-
+   
 ### Q2. Then, how can I interpret scaled regression coefficients?
 
-
+   
 A. Interpreting the coefficients of a regression model that uses scaled input features requires a slightly different approach than interpreting coefficients in a model without scaling. Here are some key points to consider when interpreting scaled regression coefficients:
 
 Magnitude: The magnitude of the coefficients is no longer directly comparable because the scaling changes the units of the input features. Instead, you can compare the relative magnitudes of the coefficients to see which features have a larger or smaller impact on the output variable.
@@ -29,11 +29,11 @@ Interpretation: The interpretation of the coefficients is still related to the c
 
 In summary, interpreting scaled regression coefficients requires taking into account the scaling factor of the input features, and focusing on the relative magnitudes and directions of the coefficients to understand their impact on the output variable.
 
+   
 
+### Q3. There is no method to restore scaled regression coefficients?
 
-### Q. There is no method to restore scaled regression coefficients?
-
-
+   
 A. It is generally not recommended to "restore" scaled regression coefficients to their original scale because the scaling transformation changes the units and magnitudes of the input features. However, there are some cases where you may need to report or interpret the coefficients in the original scale, such as when communicating results to non-technical stakeholders or comparing coefficients across different models.
 
 To restore the scaled regression coefficients to their original scale, you can use the following formula:
