@@ -14,9 +14,16 @@
 (1) [논문]빅데이터를 활용한 게임 전략 및 유저 행동 패턴 분석 .... https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=JAKO201925462478625 액세스한 날짜 2023. 4. 12..
 
 (2) [논문]온라인 게임에서의 이상 징후 탐지 기법 조사 및 분류. https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=JAKO201533678768394 액세스한 날짜 2023. 4. 12..  
+
 (3) [논문]상호 감시 기반의 온라인 게임 치팅 탐지 방법. https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=DIKO0014187411 액세스한 날짜 2023. 4. 12..  
+
 (4) [논문]클러스터링 기반 앙상블 모델 구성을 이용한 이상치 탐지. https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=JAKO201809355934119 액세스한 날짜 2023. 4. 12..  
+
 (5) [논문]한국 게임 마케팅의 기초적 문제점에 관한 연구. https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=DIKO0010857404 액세스한 날짜 2023. 4. 12..  
-(6) [논문]비지도학습 이상치 탐지의 데이터 이상정도 측정 지표에 .... https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=DIKO0015079020 액세스한 날짜 2023. 4. 12..  
+
+(6) [논문]비지도학습 이상치 탐지의 데이터 이상정도 측정 지표에 .... https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=DIKO0015079020 액세스한 날짜 2023. 4. 12..
+
 (7) 이상치 탐색을 위한 통계적 방법. https://bing.com/search?q=%ea%b2%8c%ec%9e%84+%ec%9d%b4%ec%83%81%ec%b9%98+%ed%83%90%ec%a7%80+%eb%b0%a9%eb%b2%95+%eb%85%bc%eb%ac%b8+%ea%b5%ad%eb%82%b4+%ed%95%b4%ec%99%b8 액세스한 날짜 2023. 4. 12..  
+
 (8) 이상치 탐색을 위한 통계적 방법. https://bing.com/search?q=%ea%b2%8c%ec%9e%84+%ec%9d%b4%ec%83%81%ec%b9%98+%ed%83%90%ec%a7%80+%eb%b0%a9%eb%b2%95+%eb%85%bc%eb%ac%b8 액세스한 날짜 2023. 4. 12..  
+
