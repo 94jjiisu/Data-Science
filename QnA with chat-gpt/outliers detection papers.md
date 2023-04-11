@@ -9,7 +9,9 @@
 참고로, 논문 검색 시 검색어를 조금 더 구체적으로 입력하면 더욱 정확한 검색 결과를 얻을 수 있습니다.
 
 
-출처: Bing과의 대화, 2023. 4. 12.(1) [논문]빅데이터를 활용한 게임 전략 및 유저 행동 패턴 분석 .... https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=JAKO201925462478625 액세스한 날짜 2023. 4. 12..
+출처: Bing과의 대화, 2023. 4. 12.
+
+(1) [논문]빅데이터를 활용한 게임 전략 및 유저 행동 패턴 분석 .... https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=JAKO201925462478625 액세스한 날짜 2023. 4. 12..
 
 (2) [논문]온라인 게임에서의 이상 징후 탐지 기법 조사 및 분류. https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=JAKO201533678768394 액세스한 날짜 2023. 4. 12..  
 (3) [논문]상호 감시 기반의 온라인 게임 치팅 탐지 방법. https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=DIKO0014187411 액세스한 날짜 2023. 4. 12..  
