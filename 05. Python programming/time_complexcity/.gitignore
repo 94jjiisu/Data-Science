@@ -1,0 +1,6 @@
+.DS_Store
+.pytest_cache/
+__pycache__/
+.report.json
+Pipfile
+Pipfile.lock
