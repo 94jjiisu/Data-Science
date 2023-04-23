@@ -11,10 +11,17 @@
 
 ### Sampling
 
-* simple random sampling: 모집단에서 샘플링을 무작위로 수행
-* systematic sampling: 모집단에서 샘플링을 할 때 규칙을 가지고 추출
-* stratified random sampling: 모집단을 미리 여러 그룹으로 나누고 그 그룹별로 무작위 추출
-* cluster sampling: 모집단을 미리 여러 그룹으로 나누고 이후 특정 그룹을 무작위로 선택
+* **simple random sampling**
+- 모집단에서 샘플링을 무작위로 수행
+
+* **systematic sampling**
+- 모집단에서 샘플링을 할 때 규칙을 가지고 추출
+
+* **stratified random sampling**
+- 모집단을 미리 여러 그룹으로 나누고 그 그룹별로 무작위 추출
+
+* **cluster sampling**
+- 모집단을 미리 여러 그룹으로 나누고 이후 특정 그룹을 무작위로 선택
 
 ### 가설 검정
 
