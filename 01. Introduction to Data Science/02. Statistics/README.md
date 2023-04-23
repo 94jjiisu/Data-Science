@@ -87,7 +87,7 @@ stats.ttest_ind(x1, x2)
 
 - **정규성: shapiro-wilk test**
 
-- 각 변수는 정규 분포를 따라야 한다
+각 변수는 정규 분포를 따라야 한다
 
 ```python
 stats.shapiro(data)
@@ -107,6 +107,8 @@ shapiro-wilk test는 p-value가 나오기 상당히 까다로운 검정
 또는 변수의 값을 로그 변환하여 정규분포의 모양으로 맞춰주고 실행
 
 - **등분산성(barlett test, levene test)**
+
+각 변수의 분산은 동일한 수준의 분산을 가져야 한다
 
 검정 결과는 대립가설을 기각하고, 귀무가설을 채택해야 함
 
@@ -172,7 +174,7 @@ df = pd.DataFrame(data, columns=['head_size', 'fetus', 'observer'])
 formula = 'head_size ~ C(fetus) + C(observer) + C(fetus):C(observer)'
 lm = ols(formula, df).fit()
 print(anova_lm(lm))
-
+```
 
 ### 사후분석
 - 집단 간 평균이 다른건 알겠는데, 누가 더 높은지 모르는 상황
